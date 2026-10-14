@@ -16,11 +16,10 @@ via replacing #HEX with url('IMG LINK') center center fixed;
 BUT I recommend repeating patterns rather than full images. */
 
 @media screen and (min-width: 601px) { body {
-background: url('https://i.ibb.co/23Ky28Fb/albany-damask-classic-ivory-wallpaper-0-lg.webp') center center fixed; background-size: cover;
+background: url('<img src="https://i.ibb.co/23KyZ8Fb/albany-damask-classic-ivory-wallpaper-0-lg.webp" alt="albany damask classic ivory wallpaper 0 lg" border="0">') center center fixed; background-size: cover;
 color: #E6BE8A; }}
 
 @media screen and (max-width: 600px) {
     body {
-        background: url('https://i.ibb.co/23Ky28Fb/albany-damask-classic-ivory-wallpaper-0-lg.webp') center center;
-background-size: cover;
-color: #E6BE8A; }}
+        background: url('<img src="https://i.ibb.co/23KyZ8Fb/albany-damask-classic-ivory-wallpaper-0-lg.webp" alt="albany damask classic ivory wallpaper 0 lg" border="0">') center center;
+background-size: cover; }}
